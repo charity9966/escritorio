@@ -1,2 +1,0 @@
-# escritorio
-remote
